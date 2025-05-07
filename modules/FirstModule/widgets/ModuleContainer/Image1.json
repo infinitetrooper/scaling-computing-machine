@@ -1,9 +1,9 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 20,
+  "bottomRow": 30,
   "boxShadow": "none",
-  "defaultImage": "https://assets.appsmith.com/salesforce.png",
+  "defaultImage": "https://assets.appsmith.com/notion-logo.svg",
   "dynamicBindingPathList": [
     {
       "key": "borderRadius"
